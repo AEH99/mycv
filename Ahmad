@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>MY CV</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+div {
+  width: 200px;
+  height: 200px;
+  background-image: url('./img/Ahmad1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: auto;
+}
+.name {
+  text-align: center;
+  color: #18c2c2;
+}
+h5{text-align: center;
+  color: #000000;
+
+}
+
+.cc{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+
+
+}
+.aa{
+    text-align: center;
+}
+.coler{
+  background-color: rgba(0, 0, 255, 0.247);
+  text-align: center;
+}
+.coler2{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.61);
+}
+
+
+
+</style>
+</head>
+<body>
+<div></div>
+
+<h1 class="name">Ahmad Esmail </h1>
+<h5>29-Nov-2000</h5>
+
+
+<p class="cc"><img src="./img/FB.jpg" alt="FB" class="cc"><a href="https://www.facebook.com/07504940360AS" class="cc">FACEBOOK.COM</a></p>
+<p class="cc"><img src="./img/instagram.jpg" alt="IN" class="cc"><a href="https://instagram.com/ahm4d.it?utm_medium=copy_link" class="cc">INSTAGRAM.COM</a></p>
+<br>   
+<hr>
+<p class="aa">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque exercitationem laborum nam vel recusandae dolorem delectus animi expedita impedit nisi necessitatibus error illo libero repellat, quasi ipsa corporis fugit officiis!</p>
+<hr>
+
+<h1>Education</h1>
+
+<ol class="coler">
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, impedit quam. Animi reprehenderit ipsam, incidunt, recusandae similique eos quos nulla ipsum laudantium adipisci doloremque facere quae possimus, dicta ab autem!</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat odio, vel ratione molestias minus repellendus vero doloremque facere enim cum ducimus itaque voluptates. Omnis sequi adipisci incidunt, quasi excepturi molestias!</li>
+
+</ol>
+
+<h1 class=>Skills</h1>
+
+<ol class="coler2">
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem laborum a hic harum provident consectetur est placeat tempora amet alias totam corporis vitae, nobis quam consequuntur soluta explicabo ipsa vel!</li>
+    <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium excepturi veniam impedit, ullam eligendi perspiciatis blanditiis mollitia! Officiis porro nobis, distinctio suscipit officia amet debitis vel neque esse nisi ipsum.</li>
+
+</ol>
+
+
+</body>
+
+</html>
